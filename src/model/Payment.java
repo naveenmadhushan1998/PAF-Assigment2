@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class Payment {
 
-	/// Connect to DB
+	/// Connect to DB m
 	private Connection connect() {
 		Connection con = null;
 
